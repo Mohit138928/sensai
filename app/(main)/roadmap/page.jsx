@@ -3,6 +3,9 @@ import RoadmapTimeline from "./_components/roadmap-timeline";
 import GenerateRoadmap from "./_components/generate-roadmap";
 import { Card, CardContent } from "@/components/ui/card";
 
+// Add this export to make the page dynamic
+export const dynamic = "force-dynamic";
+
 export default async function RoadmapPage() {
   let roadmap = null;
   let error = null;
