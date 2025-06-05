@@ -65,7 +65,7 @@ A comprehensive AI-powered career development platform built with modern technol
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Mohit138928/Sensai.git
+git clone https://github.com/Mohit138928/sensai.git
 cd sensai
 ```
 
