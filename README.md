@@ -1,7 +1,5 @@
 # AI Career Coach - Your Complete Professional Development Platform 🚀
 
-![Sensai Banner](https://github.com/user-attachments/assets/eee79242-4056-4d19-b655-2873788979e1)
-
 A comprehensive AI-powered career development platform built with modern technologies to accelerate your professional growth.
 
 ## 🌟 Features
